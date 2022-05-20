@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "IncomeComparison", "IncomeComparison.exe", "{B6607D4F-D615-4E40-BEBD-8F6DAEEB8621}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = C:\Users\matth\OneDrive\Desktop\Basic_C#_Programs\IncomeComparison\bin\Debug\IncomeComparison.exe
+		RemoteMachine = MATTHEWS-PC
+		StartingDirectory = C:\Users\matth\OneDrive\Desktop\Basic_C#_Programs\IncomeComparison\bin\Debug
+		Environment = Default
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		UseLegacyDebugEngines = No
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+		IORedirection = Auto
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6607D4F-D615-4E40-BEBD-8F6DAEEB8621}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D528564E-CE1B-4E35-B8A9-FB98B0D72B93}
+	EndGlobalSection
+EndGlobal
