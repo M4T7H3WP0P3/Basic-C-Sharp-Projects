@@ -1,0 +1,6 @@
+C:\Users\matth\OneDrive\Desktop\Basic_C#_Programs\SixPartAssignment\SixPartAssignment\bin\Debug\SixPartAssignment.exe.config
+C:\Users\matth\OneDrive\Desktop\Basic_C#_Programs\SixPartAssignment\SixPartAssignment\bin\Debug\SixPartAssignment.exe
+C:\Users\matth\OneDrive\Desktop\Basic_C#_Programs\SixPartAssignment\SixPartAssignment\bin\Debug\SixPartAssignment.pdb
+C:\Users\matth\OneDrive\Desktop\Basic_C#_Programs\SixPartAssignment\SixPartAssignment\obj\Debug\SixPartAssignment.csproj.CoreCompileInputs.cache
+C:\Users\matth\OneDrive\Desktop\Basic_C#_Programs\SixPartAssignment\SixPartAssignment\obj\Debug\SixPartAssignment.exe
+C:\Users\matth\OneDrive\Desktop\Basic_C#_Programs\SixPartAssignment\SixPartAssignment\obj\Debug\SixPartAssignment.pdb
