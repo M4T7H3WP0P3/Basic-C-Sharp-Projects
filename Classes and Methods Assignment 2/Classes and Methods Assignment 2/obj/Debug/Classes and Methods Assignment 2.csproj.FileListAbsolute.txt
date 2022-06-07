@@ -1,7 +1,0 @@
-C:\Users\matth\OneDrive\Desktop\Basic_C#_Programs\Classes and Methods Assignment 2\Classes and Methods Assignment 2\bin\Debug\Classes and Methods Assignment 2.exe.config
-C:\Users\matth\OneDrive\Desktop\Basic_C#_Programs\Classes and Methods Assignment 2\Classes and Methods Assignment 2\bin\Debug\Classes and Methods Assignment 2.exe
-C:\Users\matth\OneDrive\Desktop\Basic_C#_Programs\Classes and Methods Assignment 2\Classes and Methods Assignment 2\bin\Debug\Classes and Methods Assignment 2.pdb
-C:\Users\matth\OneDrive\Desktop\Basic_C#_Programs\Classes and Methods Assignment 2\Classes and Methods Assignment 2\obj\Debug\Classes and Methods Assignment 2.csproj.AssemblyReference.cache
-C:\Users\matth\OneDrive\Desktop\Basic_C#_Programs\Classes and Methods Assignment 2\Classes and Methods Assignment 2\obj\Debug\Classes and Methods Assignment 2.csproj.CoreCompileInputs.cache
-C:\Users\matth\OneDrive\Desktop\Basic_C#_Programs\Classes and Methods Assignment 2\Classes and Methods Assignment 2\obj\Debug\Classes and Methods Assignment 2.exe
-C:\Users\matth\OneDrive\Desktop\Basic_C#_Programs\Classes and Methods Assignment 2\Classes and Methods Assignment 2\obj\Debug\Classes and Methods Assignment 2.pdb
