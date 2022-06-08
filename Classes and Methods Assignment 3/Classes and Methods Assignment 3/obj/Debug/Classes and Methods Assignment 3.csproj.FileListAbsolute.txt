@@ -1,0 +1,7 @@
+C:\Users\matth\OneDrive\Desktop\Basic_C#_Programs\Classes and Methods Assignment 3\Classes and Methods Assignment 3\obj\Debug\Classes and Methods Assignment 3.csproj.AssemblyReference.cache
+C:\Users\matth\OneDrive\Desktop\Basic_C#_Programs\Classes and Methods Assignment 3\Classes and Methods Assignment 3\obj\Debug\Classes and Methods Assignment 3.csproj.CoreCompileInputs.cache
+C:\Users\matth\OneDrive\Desktop\Basic_C#_Programs\Classes and Methods Assignment 3\Classes and Methods Assignment 3\bin\Debug\Classes and Methods Assignment 3.exe.config
+C:\Users\matth\OneDrive\Desktop\Basic_C#_Programs\Classes and Methods Assignment 3\Classes and Methods Assignment 3\bin\Debug\Classes and Methods Assignment 3.exe
+C:\Users\matth\OneDrive\Desktop\Basic_C#_Programs\Classes and Methods Assignment 3\Classes and Methods Assignment 3\bin\Debug\Classes and Methods Assignment 3.pdb
+C:\Users\matth\OneDrive\Desktop\Basic_C#_Programs\Classes and Methods Assignment 3\Classes and Methods Assignment 3\obj\Debug\Classes and Methods Assignment 3.exe
+C:\Users\matth\OneDrive\Desktop\Basic_C#_Programs\Classes and Methods Assignment 3\Classes and Methods Assignment 3\obj\Debug\Classes and Methods Assignment 3.pdb
