@@ -1,0 +1,7 @@
+C:\Users\matth\OneDrive\Desktop\Basic_C#_Programs\AbstractClassesAssignment\AbstractClassesAssignment\bin\Debug\AbstractClassesAssignment.exe.config
+C:\Users\matth\OneDrive\Desktop\Basic_C#_Programs\AbstractClassesAssignment\AbstractClassesAssignment\bin\Debug\AbstractClassesAssignment.exe
+C:\Users\matth\OneDrive\Desktop\Basic_C#_Programs\AbstractClassesAssignment\AbstractClassesAssignment\bin\Debug\AbstractClassesAssignment.pdb
+C:\Users\matth\OneDrive\Desktop\Basic_C#_Programs\AbstractClassesAssignment\AbstractClassesAssignment\obj\Debug\AbstractClassesAssignment.csproj.AssemblyReference.cache
+C:\Users\matth\OneDrive\Desktop\Basic_C#_Programs\AbstractClassesAssignment\AbstractClassesAssignment\obj\Debug\AbstractClassesAssignment.csproj.CoreCompileInputs.cache
+C:\Users\matth\OneDrive\Desktop\Basic_C#_Programs\AbstractClassesAssignment\AbstractClassesAssignment\obj\Debug\AbstractClassesAssignment.exe
+C:\Users\matth\OneDrive\Desktop\Basic_C#_Programs\AbstractClassesAssignment\AbstractClassesAssignment\obj\Debug\AbstractClassesAssignment.pdb
