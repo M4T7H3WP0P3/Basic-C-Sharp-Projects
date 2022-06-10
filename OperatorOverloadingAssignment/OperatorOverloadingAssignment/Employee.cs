@@ -8,8 +8,8 @@ namespace OperatorOverloadingAssignment
 {
     public class Employee
     {
-        private int id;
-        private string name;
+        public int id;
+        public string name;
 
         public Employee(int id, string name)
         {

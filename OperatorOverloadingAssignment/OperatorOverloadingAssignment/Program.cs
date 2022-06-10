@@ -18,15 +18,20 @@ namespace OperatorOverloadingAssignment
             if (e1 == e2)
             {
                 Console.WriteLine(e1 == e2);
-                Console.ReadLine();
+
             }
-
-
-
-
+            else
+            {
+                Console.WriteLine(e1 != e2);
+            }
             
+            Console.ReadLine();
 
-            
+
+
+
+
+
 
 
 
