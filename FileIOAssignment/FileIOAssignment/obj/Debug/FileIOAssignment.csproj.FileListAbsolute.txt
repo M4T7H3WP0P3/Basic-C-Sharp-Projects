@@ -1,0 +1,7 @@
+C:\Users\matth\OneDrive\Desktop\Basic_C#_Programs\FileIOAssignment\FileIOAssignment\bin\Debug\FileIOAssignment.exe.config
+C:\Users\matth\OneDrive\Desktop\Basic_C#_Programs\FileIOAssignment\FileIOAssignment\bin\Debug\FileIOAssignment.exe
+C:\Users\matth\OneDrive\Desktop\Basic_C#_Programs\FileIOAssignment\FileIOAssignment\bin\Debug\FileIOAssignment.pdb
+C:\Users\matth\OneDrive\Desktop\Basic_C#_Programs\FileIOAssignment\FileIOAssignment\obj\Debug\FileIOAssignment.csproj.AssemblyReference.cache
+C:\Users\matth\OneDrive\Desktop\Basic_C#_Programs\FileIOAssignment\FileIOAssignment\obj\Debug\FileIOAssignment.csproj.CoreCompileInputs.cache
+C:\Users\matth\OneDrive\Desktop\Basic_C#_Programs\FileIOAssignment\FileIOAssignment\obj\Debug\FileIOAssignment.exe
+C:\Users\matth\OneDrive\Desktop\Basic_C#_Programs\FileIOAssignment\FileIOAssignment\obj\Debug\FileIOAssignment.pdb
